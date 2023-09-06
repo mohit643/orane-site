@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+  }
+   body,html {height: 100%;}
+   .h100 {height: 100%;}
+  
+   .justify-cen{display: flex;
+    justify-content: center;
+    align-items: center;}
+  
+    .m10{margin: 10px;}
+    .form-class{background: darkseagreen;
+      padding: 40px;
+      border-radius: 4px;
+      box-shadow: 2px 15px 19px -4px;}
+  
+  .input-box{border-radius: 3px;
+        padding: 7px;
+        border: none;}
+  
+   .btn{background-color: azure;}
